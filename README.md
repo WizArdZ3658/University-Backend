@@ -19,7 +19,7 @@ The database is hosted on MongoDB-Atlas and the application is hosted on Heroku.
 
 ## Technology Stack
 ##### Languages :-
-JavaScript, NoSQL
+JavaScript
 
 ##### Frameworks, Libraries and Tools:-
 Node.js, HTTP, Heroku-CLI, Git, VSCode, Nodemon(for development), [Mockaroo](https://www.mockaroo.com/)(to generate mock JSON data), MongoDB-Atlas
