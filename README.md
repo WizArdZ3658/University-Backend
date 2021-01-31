@@ -7,6 +7,10 @@ Generated mock JSON data for Universities and Students and stored it in MongoDB.
 
 **Example :- "Southwest Baptist University" is located in Bolivar, Missouri but in the application it's located in Houston, Texas.**
 
+This Back-End API Application is part of a Full Stack Project. GitHub repo link for Front-End Web Application : https://github.com/WizArdZ3658/University-Frontend.
+
+The website is deployed at Heroku, click [here](https://universityusainfo.herokuapp.com/#/) to view.
+
 ## API Endpoints
  * https://mysterious-plains-33385.herokuapp.com/api/students?collegeid=55
  * https://mysterious-plains-33385.herokuapp.com/api/students
